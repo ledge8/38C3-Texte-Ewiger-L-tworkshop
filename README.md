@@ -116,7 +116,7 @@ more Infos: [click here](https://pad.binary-kitchen.de/df8z9BmcRtaTirQopUZGAw#)
 ### Tags
 free_hardware_exchange
 
-## [**Projekt 24/4 Soldering](https://events.ccc.de/congress/2024/hub/project/244-soldering/)
+## [**Projekt 24/4 Soldering**](https://events.ccc.de/congress/2024/hub/project/244-soldering/)
 ### Text DE
 Bei unserem allseits bekannten ewigen Lötworkshop könnt ihr 24/4 bei uns löten. Schnapp dir unsere sehr ausführlichen Anleitungen, einen Bausatz und leg los! Neben den Dauerlötworkshops wird es auch jeden Tag Kurse geben, bei dem ihr Schritt für Schritt einen geführten Workshop bekommt.
 
